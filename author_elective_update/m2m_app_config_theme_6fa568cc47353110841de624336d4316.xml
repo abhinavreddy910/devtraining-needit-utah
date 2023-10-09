@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:51:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fa568cc47353110841de624336d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>m2m_app_config_theme_6fa568cc47353110841de624336d4316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:51:02</sys_updated_on>
+        <theme/>
+        <ux_app_configuration display_value="My App">5e8858bd47e13110841de624336d4315</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>300ce684dbb565dcc1a4c59705961964</instance_id>
+        <instance_name>dev166644</instance_name>
+        <name>m2m_app_config_theme_6fa568cc47353110841de624336d4316</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 10:51:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6fa568cc47353110841de624336d4316</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>m2m_app_config_theme_6fa568cc47353110841de624336d4316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 10:51:02</sys_updated_on><theme/><ux_app_configuration display_value="My App">5e8858bd47e13110841de624336d4315</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>286238666</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>772667f247d13110841de624336d43a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:51:02</sys_created_on>
+        <sys_id>e3a568cc47353110841de624336d4319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aff76611a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:51:02</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>2ba568cca1353110e9388acfd64c4f18</update_guid>
+        <update_guid_history>2ba568cca1353110e9388acfd64c4f18:286238666</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9fc5e8cc47353110841de624336d43ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:51:33</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>6ecff46a57a54890bcd1509812128124</sys_id>
+        <sys_metadata>6fa568cc47353110841de624336d4316</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_6fa568cc47353110841de624336d4316</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_6fa568cc47353110841de624336d4316">e3a568cc47353110841de624336d4319</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:51:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
